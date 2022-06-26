@@ -1,2 +1,2 @@
 # chess-board
-A simple chessboard design created using code
+A simple 8x8 chessboard design created using code
