@@ -1,2 +1,2 @@
 # chess-board
-Created with CodeSandbox
+A simple chessboard design created using code
